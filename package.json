@@ -1,6 +1,6 @@
 {
   "name": "@drincs/pixi-vn-storymate",
-  "version": "0.7.1",
+  "version": "0.1.0",
   "type": "module",
   "description": "Pixi'VN gives you the ability to write your own narrative using StoryMate",
   "main": "./dist/index.cjs",
