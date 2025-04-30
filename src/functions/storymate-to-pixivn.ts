@@ -16,7 +16,7 @@ async function convertStoryMateNodes(nodesData: StoryMateNodesDataType[]): Promi
             dialogue: node.text,
             choices: node.choicesText.map((choice) => ({
                 text: choice.choiceText,
-                label: StoryMateIdToPixiVNId(node.id),
+                label: StoryMateIdToPixiVNId(choice.id),
                 type: "jump",
                 props: {},
             })),

@@ -19,13 +19,13 @@ test("Gauntlet v1.0", async () => {
                     choices: [
                         {
                             text: "1",
-                            label: "storymate-1",
+                            label: "storymate-2",
                             type: "jump",
                             props: {},
                         },
                         {
                             text: "2",
-                            label: "storymate-1",
+                            label: "storymate-3",
                             type: "jump",
                             props: {},
                         },
@@ -39,7 +39,7 @@ test("Gauntlet v1.0", async () => {
                     choices: [
                         {
                             text: "Start",
-                            label: "storymate-2",
+                            label: "storymate-1",
                             type: "jump",
                             props: {},
                         },
@@ -54,13 +54,13 @@ test("Gauntlet v1.0", async () => {
                     choices: [
                         {
                             text: "3",
-                            label: "storymate-3",
+                            label: "storymate-4",
                             type: "jump",
                             props: {},
                         },
                         {
                             text: "4",
-                            label: "storymate-3",
+                            label: "storymate-5",
                             type: "jump",
                             props: {},
                         },
@@ -82,13 +82,13 @@ test("Gauntlet v1.0", async () => {
                     choices: [
                         {
                             text: "5",
-                            label: "storymate-5",
+                            label: "storymate-6",
                             type: "jump",
                             props: {},
                         },
                         {
                             text: "6",
-                            label: "storymate-5",
+                            label: "storymate-7",
                             type: "jump",
                             props: {},
                         },
@@ -109,7 +109,7 @@ test("Gauntlet v1.0", async () => {
                     choices: [
                         {
                             text: "7",
-                            label: "storymate-7",
+                            label: "storymate-8",
                             type: "jump",
                             props: {},
                         },
@@ -124,19 +124,19 @@ test("Gauntlet v1.0", async () => {
                     choices: [
                         {
                             text: "8",
-                            label: "storymate-8",
+                            label: "storymate-9",
                             type: "jump",
                             props: {},
                         },
                         {
                             text: "9",
-                            label: "storymate-8",
+                            label: "storymate-10",
                             type: "jump",
                             props: {},
                         },
                         {
                             text: "10",
-                            label: "storymate-8",
+                            label: "storymate-11",
                             type: "jump",
                             props: {},
                         },
@@ -150,7 +150,7 @@ test("Gauntlet v1.0", async () => {
                     choices: [
                         {
                             text: "6",
-                            label: "storymate-9",
+                            label: "storymate-7",
                             type: "jump",
                             props: {},
                         },
@@ -171,7 +171,7 @@ test("Gauntlet v1.0", async () => {
                     choices: [
                         {
                             text: "11",
-                            label: "storymate-11",
+                            label: "storymate-12",
                             type: "jump",
                             props: {},
                         },
@@ -186,31 +186,31 @@ test("Gauntlet v1.0", async () => {
                     choices: [
                         {
                             text: "12",
-                            label: "storymate-12",
+                            label: "storymate-13",
                             type: "jump",
                             props: {},
                         },
                         {
                             text: "13",
-                            label: "storymate-12",
+                            label: "storymate-14",
                             type: "jump",
                             props: {},
                         },
                         {
                             text: "16",
-                            label: "storymate-12",
+                            label: "storymate-15",
                             type: "jump",
                             props: {},
                         },
                         {
                             text: "14",
-                            label: "storymate-12",
+                            label: "storymate-16",
                             type: "jump",
                             props: {},
                         },
                         {
                             text: "15",
-                            label: "storymate-12",
+                            label: "storymate-17",
                             type: "jump",
                             props: {},
                         },
@@ -238,13 +238,13 @@ test("Gauntlet v1.0", async () => {
                     choices: [
                         {
                             text: "17",
-                            label: "storymate-15",
+                            label: "storymate-18",
                             type: "jump",
                             props: {},
                         },
                         {
                             text: "18 end",
-                            label: "storymate-15",
+                            label: "storymate-19",
                             type: "jump",
                             props: {},
                         },
