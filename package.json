@@ -1,0 +1,50 @@
+{
+  "name": "@drincs/pixi-vn-storymate",
+  "version": "0.7.1",
+  "type": "module",
+  "description": "Pixi'VN gives you the ability to write your own narrative using StoryMate",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DRincs-Productions/pixi-vn-storymate.git"
+  },
+  "author": "DRincs-Productions",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DRincs-Productions/pixi-vn-storymate/issues"
+  },
+  "homepage": "https://pixi-vn.web.app",
+  "funding": "https://github.com/DRincs-Productions/pixi-vn?sponsor=1",
+  "devDependencies": {
+    "@drincs/pixi-vn-json": "^1.5.1",
+    "jsdom": "^26.1.0",
+    "ts-node": "^10.9.2",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.2"
+  },
+  "peerDependencies": {
+    "@drincs/pixi-vn": ">=1.1.0"
+  },
+  "keywords": [
+    "game",
+    "storymate",
+    "js",
+    "novel",
+    "pixi",
+    "pixi-js",
+    "pixi-vn",
+    "visual",
+    "visual-novel",
+    "vn"
+  ]
+}
